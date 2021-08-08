@@ -8,9 +8,9 @@
         
         🎓   Studying Software Engineering at UEF University HCMC
         
-        🍙   Exploring new technologies and developing software solutions and photographer.
-
         🌱   Full Stack Developer ( Full-time Employee, Junior Software Developer )
+        
+        🍙   Exploring new technologies and developing software solutions and photographer.
 
         ✍️   Pursuing Web Development as hobbies.
 
