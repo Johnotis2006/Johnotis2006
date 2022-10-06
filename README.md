@@ -31,6 +31,9 @@
         🤺 Photoshop Man | Adobe PTS
   🤝🏻 Contact with me 
                                         nguyenvietdung33176188@gmail.com
+  Some project: https://drive.google.com/drive/folders/1RcP32ZdVe21w5GoEGefi43dJPFnyjUlv?usp=sharing
+                https://drive.google.com/file/d/1rpuaksQqJh_mDqxuwzt5uF_8z1yEMwgK/view?usp=sharing
+                
 <!---
 Johnotis2006/Johnotis2006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
